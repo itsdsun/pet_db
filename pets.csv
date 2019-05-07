@@ -1,0 +1,7 @@
+field/0/_name,field/0/__text,field/1/_name,field/1/__text,field/2/_name,field/2/__text,field/3/_name,field/3/__text,field/4/_name,field/4/__text,field/5/_name,field/5/__text,field/6/_name,field/6/__text,field/7/_name,field/7/__text,field/8/_name,field/8/__text,field/9/_name,field/9/__text,field/10/_name,field/10/__text,field/11/_name,field/11/_xsi:nil,field/10/_xsi:nil
+pid,1,sid,5,pname,Sparkle,ptype,cat,age_weeks,156,gender,female,status,available,coat,short,picture,www.siamesecat.com/asfasf.url,breed,siamese,date_posted,2019-05-06,date_adopted,true,
+pid,2,sid,3,pname,pirata,ptype,dog,age_weeks,312,gender,male,status,available,coat,short,picture,www.thatdogpic.jpg,breed,shiba,date_posted,,date_adopted,true,true
+pid,3,sid,1,pname,daphne,ptype,dog,age_weeks,104,gender,female,status,available,coat,long,picture,www.thatdogpic.jpg,breed,chocolate lab,date_posted,,date_adopted,true,true
+pid,4,sid,2,pname,zeus,ptype,dog,age_weeks,107,gender,male,status,available,coat,short,picture,www.thatdogpic.jpg,breed,pug,date_posted,,date_adopted,true,true
+pid,5,sid,3,pname,luna,ptype,cat,age_weeks,52,gender,female,status,available,coat,short,picture,www.wowlookatthatcat.jpg,breed,bengal,date_posted,,date_adopted,true,true
+pid,6,sid,4,pname,tuna,ptype,cat,age_weeks,418,gender,male,status,available,coat,long,picture,www.wowlookatthatcat.jpg,breed,tabby,date_posted,,date_adopted,true,true
